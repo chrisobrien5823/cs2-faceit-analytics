@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
