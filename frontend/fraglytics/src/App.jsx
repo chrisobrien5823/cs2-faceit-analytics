@@ -6,7 +6,7 @@ import {
   ScatterChart, Scatter, ZAxis
 } from "recharts";
 
-const BASE_URL = "https://cs2-faceit-analytics.onrender.com/";
+const BASE_URL = "https://cs2-faceit-analytics.onrender.com";
 
 // ── Unified color system: red = bad, yellow = ok, green = good ──────────────
 const GREEN  = "#4ade80";   // good
